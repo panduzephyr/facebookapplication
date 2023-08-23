@@ -11,4 +11,6 @@ select * from emp where empid=10 desc
 
 Where are u from?
 
-Spend bound 
+Spend bound
+
+Can u come tomorrow ?
